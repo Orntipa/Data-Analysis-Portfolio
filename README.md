@@ -11,7 +11,7 @@ Experienced in working with data to support decision-making and develop strategi
 
 This repository serves as a platform to Showcase my skills and projects in Data Analytics, Data Management, and Business Development.
 Track my progress as I continue to grow in the field of data analysis.
-📄 View my CV [pdf](file:///C:/Users/HP/Downloads/Internship%20Resume.pdf)
+📄 View my CV [pdf](Internship Resume.pdf)
 
 
 ## Portfolio Projects
