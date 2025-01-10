@@ -11,7 +11,7 @@ Experienced in working with data to support decision-making and develop strategi
 
 This repository serves as a platform to Showcase my skills and projects in Data Analytics, Data Management, and Business Development.
 Track my progress as I continue to grow in the field of data analysis.
-📄 View my CV [pdf](Internship Resume.pdf)
+📄 View my CV [pdf](https://github.com/Orntipa/Data-Analysis-Portfolio/blob/940309cf9977276049556dfaa6f7efd90d8e1a7b/Internship%20Resume.pdf)
 
 
 ## Portfolio Projects
