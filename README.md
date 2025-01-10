@@ -10,16 +10,37 @@ Proficient in managing and analyzing business data to generate actionable insigh
 Skilled in using Python for data manipulation, SQL for database management, and Power BI for creating impactful visualizations.
 Experienced in working with data to support decision-making and develop strategies.
 
-My Projects:
-Data Analysis with Open Datasets: Conducted data analysis using the Diabetes Dataset as part of an Intro to Data Analysis project.
-KU Startup Club Events: Managed and organized events to foster collaboration and innovation among members.
-Interests:
-In my free time, I enjoy exploring new data analytics tools, learning advanced techniques in data management, and finding innovative ways to blend creativity with analytical problem-solving.
-
 This repository serves as a platform to:
 
 Showcase my skills and projects in Data Analytics, Data Management, and Business Development.
 Track my progress as I continue to grow in the field of data analysis.
 📄 View my CV (PDF)
 
-Feel free to connect and collaborate with me! Together, we can unlock the potential of data to solve complex problems and create impactful solutions.
+
+## Portfolio Projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+### Analyzing Emergency - 911 Calls
+**Code:** 
+
+**Goal:** To analyze patterns and trends in 911 emergency calls, focusing on reasons, locations, and time trends, to gain insights that could assist in resource planning and emergency response improvements.
+
+**Description:** Analyzed 911 call data to explore reasons, locations, and time trends. Steps included data cleaning, creating new features (e.g., call reasons, hours), and visualizing trends using plots and heatmaps.
+
+**Skills:** Data cleaning, feature creation, data visualization, trend analysis.
+
+**Technology:** Python, Pandas, NumPy, Matplotlib, Seaborn.
+
+**Results:** Identified EMS, Traffic, and Fire as the top call reasons. Call patterns vary by time and location, with peak hours and hotspots visualized through heatmaps, aiding emergency planning.
+
+### Analyzing Finance Project
+**Code:** 
+
+**Goal:** Analyze stock price trends of major banks during and after the 2008 financial crisis to practice visualization and data analysis skills.
+
+**Description:** Analyzed stock data for six banks from 2008 to 2016. The project included getting data, exploring trends, and creating visualizations to understand stock performance over time.
+
+**Skills:** Data fetching, cleaning, analysis, and visualization.
+
+**Technology:** Python, Pandas, NumPy, Matplotlib, Seaborn, Pandas-DataReader.
+
+**Results:** Visualized stock price changes during the crisis, Found correlations between bank stock trends, Used moving averages to highlight long-term patterns.
