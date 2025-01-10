@@ -5,14 +5,11 @@ Welcome to my portfolio. I am an aspiring Data Analyst with a strong foundation 
 
 I am passionate about utilizing data and technology to solve real-world problems and support informed decision-making. My experience includes working with tools like Python (pandas), SQL, Excel, and Power BI to analyze data and generate valuable insights.
 
-Key Strengths:
-Proficient in managing and analyzing business data to generate actionable insights.
+**Key Strengths:** Proficient in managing and analyzing business data to generate actionable insights.
 Skilled in using Python for data manipulation, SQL for database management, and Power BI for creating impactful visualizations.
 Experienced in working with data to support decision-making and develop strategies.
 
-This repository serves as a platform to:
-
-Showcase my skills and projects in Data Analytics, Data Management, and Business Development.
+This repository serves as a platform to Showcase my skills and projects in Data Analytics, Data Management, and Business Development.
 Track my progress as I continue to grow in the field of data analysis.
 📄 View my CV (PDF)
 
