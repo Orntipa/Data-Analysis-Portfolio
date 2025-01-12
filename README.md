@@ -17,7 +17,7 @@ Track my progress as I continue to grow in the field of data analysis.
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 ### Analyzing Emergency - 911 Calls
-**Code:** 
+**Code:** (https://github.com/Orntipa/Data-Analysis-Portfolio/blob/82c674611673cd974e1881adaf5a2fb6253a21f0/911%20Calls%20Data%20Project.ipynb)
 
 **Goal:** To analyze patterns and trends in 911 emergency calls, focusing on reasons, locations, and time trends, to gain insights that could assist in resource planning and emergency response improvements.
 
