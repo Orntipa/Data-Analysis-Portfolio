@@ -30,7 +30,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Identified EMS, Traffic, and Fire as the top call reasons. Call patterns vary by time and location, with peak hours and hotspots visualized through heatmaps, aiding emergency planning.
 
 ### Analyzing Finance Project
-**Code:** 
+**Code:** (https://github.com/Orntipa/Data-Analysis-Portfolio/blob/ea391b65409734a6fdf9f2e4377458f40d73d1ab/Finance%20Project.ipynb)
 
 **Goal:** Analyze stock price trends of major banks during and after the 2008 financial crisis to practice visualization and data analysis skills.
 
